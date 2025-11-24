@@ -26,13 +26,29 @@ I like solving real problems, shipping features, improving performance, simplify
 **📌 Currently Working On**
 ---------------------------
 
-*   Modern frontend architectures (React + Supabase + Tailwind)
+- Completing a Master-level Web3 & Blockchain Engineering program (2024–2025)
+  
+- Building smart contracts and decentralized applications using Solidity, Foundry and React
+  
+- Recently developed a full supply-chain traceability project for the program:
+  
+  - Role-based access control (Producer → Factory → Retailer → Consumer)
     
-*   Personal and client projects in the travel and productivity domain
+  - Token creation and product tracking flows
     
-*   Improving my Next.js, Astro and AI-assisted workflows
+  - Smart contract testing with Foundry and local Ethereum networks (Anvil/Sepolia)
     
-*   Building better developer tooling around my projects
+- Actively improving my personal project Travix, a React + Supabase travel planner currently in beta:
+  
+  - Integrated AI features for itinerary generation and POI suggestions
+    
+  - Refactoring core features and data models
+    
+  - Enhancing UI/UX and overall performance
+    
+  - Preparing a clean public version for demonstration
+
+
     
 
 (_I will share selected projects soon — currently polishing some repos before making them public._)
