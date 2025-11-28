@@ -81,4 +81,5 @@ If you'd like to collaborate or discuss an opportunity:
 
 **Email:** rvoegeli@gmail.com
 **LinkedIn:** https://www.linkedin.com/in/ricardo-voegeli/
+
 **https://ricardovoegeli.dev**
