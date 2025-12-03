@@ -1,85 +1,53 @@
-**Hi, I'm Ricardo Vögeli 👋**
-=============================
+# **Hi, I'm Ricardo Vögeli 👋**
 
-**Senior Frontend Engineer based in Zürich, Switzerland**
+**Senior React Developer & IT Allrounder based in Zürich, Switzerland**
 
-I build modern, scalable and user-focused web applications.My main focus is **React**, **TypeScript**, **clean architecture**, and delivering products with real impact.I enjoy combining strong UI/UX principles with solid engineering practices to create fast, elegant and maintainable software.
+I combine over 20 years of IT experience with modern Frontend Engineering. My focus is on building stable, scalable web applications using **React**, **Next.js**, and **TypeScript**, while bringing the versatility of an IT Allrounder to solve complex technical challenges.
 
-**🔧 Tech Stack & Focus**
--------------------------
+I value clean architecture, maintainable code, and delivering products with real impact.
 
-**Frontend**React • TypeScript • JavaScript • React Query • Redux • Zustand • TailwindCSS • CSS Modules • Vite • Webpack
+---
 
-**Backend**Node.js • Express • PHP • Laravel • Symfony • PostgreSQL • MySQL • Supabase
+## **📌 Currently Working On**
 
-**Testing & Quality**Jest • Cypress • Playwright • Vitest • ESLint • Prettier
+### **✈️ Travix (Lead Developer)**
+> *A smart travel planning application built with React and AI.*
+I am actively developing this full-stack product, focusing on performance and user experience.
+* **Stack:** React, TypeScript, Supabase, TailwindCSS, AI Integration.
+* **Focus:** Refactoring core architecture, optimizing database queries, and polishing the UI for public release.
+* **Status:** Beta / Active Development.
 
-**Other**REST APIs • Supabase Edge Functions • UI/UX fundamentals • Performance optimization • Clean architecture
+### **⛓️ Master in Blockchain Engineering**
+> *Continuous Learning & Architecture.*
+Completing a Master-level program to deepen my understanding of distributed systems, smart contracts (Solidity), and secure supply-chain solutions.
 
-**💼 About Me**
----------------
+---
 
-I have more than 20 years of experience in software development, with a strong focus on modern frontend engineering.I enjoy building products end-to-end: from database models and API layers to polished UI components.
+## **🔧 Tech Stack**
 
-I like solving real problems, shipping features, improving performance, simplifying codebases and creating intuitive experiences.
+| **Frontend** | **Backend & Data** | **Tools & DevOps** |
+| :--- | :--- | :--- |
+| React, Next.js | Node.js, Express | Docker, Git, CI/CD |
+| TypeScript | PostgreSQL, Supabase | Vercel, Netlify |
+| TailwindCSS, Redux | REST APIs, GraphQL | Jest, Cypress |
+| Vite, Webpack | PHP (Laravel/Symfony) | Linux, Bash |
 
-**📌 Currently Working On**
----------------------------
+---
 
-- Completing a Master-level Web3 & Blockchain Engineering program (2024–2025)
-  
-- Building smart contracts and decentralized applications using Solidity, Foundry and React
-  
-- Recently developed a full supply-chain traceability project for the program:
-  
-  - Role-based access control (Producer → Factory → Retailer → Consumer)
-    
-  - Token creation and product tracking flows
-    
-  - Smart contract testing with Foundry and local Ethereum networks (Anvil/Sepolia)
-    
-- Actively improving my personal project Travix, a React + Supabase travel planner currently in beta:
-  
-  - Integrated AI features for itinerary generation and POI suggestions
-    
-  - Refactoring core features and data models
-    
-  - Enhancing UI/UX and overall performance
-    
-  - Preparing a clean public version for demonstration
+## **💼 About Me**
 
+I am a "builder" at heart. Whether it's crafting a pixel-perfect UI or troubleshooting a server issue, I enjoy the entire process of technology delivery.
 
-    
+* **Experience:** 20+ years in software development and IT support.
+* **Approach:** I prioritize **stability** and **long-term solutions** over quick fixes.
+* **Languages:** Spanish (Native), English (Fluent), German (B1/B2 - Active Learner).
 
-(_I will share selected projects soon — currently polishing some repos before making them public._)
+---
 
-**🚀 What I’m Good At**
------------------------
+## **📫 Contact**
 
-*   Architecting clean, scalable frontends
-    
-*   Turning product ideas into real features
-    
-*   Collaborating with backend, UX, QA and product teams
-    
-*   Delivering fast, well-structured and maintainable code
-    
-*   Creating modern interfaces with good design sense
-    
-*   Debugging complex issues and improving performance
-    
+Open to opportunities in **Zürich** (React Development, QA Automation, or IT Support).
 
-**🛠 Tools I Use Daily**
-------------------------
-
-VSCode • Cursor • GitHub Copilot • Figma • Supabase Studio • Postman • Docker • Vercel • pnpm
-
-**📫 Contact**
---------------
-
-If you'd like to collaborate or discuss an opportunity:
-
-**Email:** rvoegeli@gmail.com
-**LinkedIn:** https://www.linkedin.com/in/ricardo-voegeli/
-
-**https://ricardovoegeli.dev**
+* **Email:** [rvoegeli@gmail.com](mailto:rvoegeli@gmail.com)
+* **LinkedIn:** [linkedin.com/in/ricardo-voegeli](https://www.linkedin.com/in/ricardo-voegeli/)
+* **Portfolio:** [ricardovoegeli.dev](https://ricardovoegeli.dev)
